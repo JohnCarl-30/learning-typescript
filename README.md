@@ -1,0 +1,2 @@
+# typescript-journey
+learning typescript
